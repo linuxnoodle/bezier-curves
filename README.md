@@ -9,7 +9,7 @@ cd bezier-curves
 make clean all
 ```
 ## TODO:
-[ ] Optimizations (currently just base code)
-[ ] More tools (perhaps change into a paint program?)
-[ ] General QOL improvements, such as better mouse dragging and dropping 
-[ ] Windows support
+- [ ] Optimizations (currently just base code)
+- [ ] More tools (perhaps change into a paint program?)
+- [ ] General QOL improvements, such as better mouse dragging and dropping 
+- [ ] Windows support
